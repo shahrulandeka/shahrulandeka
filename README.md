@@ -8,11 +8,8 @@
 <h2>Certifications</h2>
 
   - [Google Cybersecurity Professional Certificate](https://github.com/shahrulandeka/LABURL)
-  - test
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial][Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+  - [Qualys Vulnerability Management Foundation Course](https://i.imgur.com/zIFHz0N.jpg)
+  - [Qualys VMDR](https://i.imgur.com/T4UMfOC.jpg)
 
 <h2> 🤳 Connect with me:</h2>
 
