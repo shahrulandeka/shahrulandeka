@@ -5,6 +5,10 @@
   - [Active Directory Home Lab](https://github.com/shahrulandeka/ActiveDirectoryLab)
   - [Hello World!](https://github.com/shahrulandeka/LABURL)
 
+<h2>👨‍💻 Lab Work:</h2>
+
+  - [[Mini] Managing Files with Linux Commands](https://github.com/shahrulandeka/mini-manage-files)
+
 <h2>Certifications</h2>
 
   - [Google Cybersecurity Professional Certificate](https://github.com/shahrulandeka/LABURL)
