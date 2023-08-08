@@ -8,6 +8,7 @@
 <h2>👨‍💻 Lab Work:</h2>
 
   - [[Mini] Managing Files with Linux Commands](https://github.com/shahrulandeka/mini-manage-files)
+  - [[Mini] Install Software in a Linux Distribution](https://github.com/shahrulandeka/install-software-in-linux)
 
 <h2>Certifications</h2>
 
