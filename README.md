@@ -9,6 +9,7 @@
 
   - [[Mini] Managing Files with Linux Commands](https://github.com/shahrulandeka/mini-manage-files)
   - [[Mini] Install Software in a Linux Distribution](https://github.com/shahrulandeka/install-software-in-linux)
+  - [[Mini] Filter with Grep](https://github.com/shahrulandeka/filter-with-grep)
 
 <h2>Certifications</h2>
 
