@@ -17,7 +17,7 @@ Welcome to my cybersecurity portfolio! Where I comprehensively document everythi
 
 <h2>Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://github.com/shahrulandeka/LABURL)
+  - [Google Cybersecurity Professional Certificate](https://github.com/shahrulandeka/LABURL) [IN PROGRESS]
   - [Qualys Vulnerability Management Foundation Course](https://i.imgur.com/zIFHz0N.jpg)
   - [Qualys VMDR](https://i.imgur.com/T4UMfOC.jpg)
 
