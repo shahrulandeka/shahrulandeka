@@ -14,6 +14,7 @@ Welcome to my cybersecurity portfolio! Where I comprehensively document everythi
   - [[Mini] Filter with Grep](https://github.com/shahrulandeka/filter-with-grep)
   - [[Mini] Manage Authorization](https://github.com/shahrulandeka/manage-authorization)
   - [[Mini] Add and Manage Users with Linux Commands](https://github.com/shahrulandeka/add-and-manage-users)
+  - [[Mini] Filter with AND, OR and NOT operators](https://github.com/shahrulandeka/filter-operators)
 
 <h2>Certifications</h2>
 
