@@ -5,7 +5,7 @@
 Welcome to my cybersecurity portfolio! Where I comprehensively document everything that I do, and label it as practical experience! I realize how tough it is to get an entry-level job when I have zero work experience. So I decided to take on practical projects and labs works to showcase that I can do the job and add value to my prospective company.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - To be added..
+  - Active Directory Home Lab (Coming soon)
 
 <h2>👨‍💻 Lab Work:</h2>
 
@@ -16,6 +16,7 @@ Welcome to my cybersecurity portfolio! Where I comprehensively document everythi
   - [[Mini] Add and Manage Users with Linux Commands](https://github.com/shahrulandeka/add-and-manage-users)
   - [[Mini] Filter with AND, OR and NOT operators](https://github.com/shahrulandeka/filter-operators)
   - [[Mini] Get Help with the Command Line](https://github.com/shahrulandeka/help-command-line)
+  - [[Mini] Filter a SQL query](https://github.com/shahrulandeka/filter-query)
 
 <h2>Certifications</h2>
 
