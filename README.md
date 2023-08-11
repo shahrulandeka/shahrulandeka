@@ -15,6 +15,7 @@ Welcome to my cybersecurity portfolio! Where I comprehensively document everythi
   - [[Mini] Manage Authorization](https://github.com/shahrulandeka/manage-authorization)
   - [[Mini] Add and Manage Users with Linux Commands](https://github.com/shahrulandeka/add-and-manage-users)
   - [[Mini] Filter with AND, OR and NOT operators](https://github.com/shahrulandeka/filter-operators)
+  - [[Mini] Get Help with the Command Line](https://github.com/shahrulandeka/help-command-line)
 
 <h2>Certifications</h2>
 
