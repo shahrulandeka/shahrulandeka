@@ -5,6 +5,7 @@
 Welcome to my cybersecurity portfolio! Where I comprehensively document everything that I do, and label it as practical experience! I realize how tough it is to get an entry-level job when I have zero work experience. So I decided to take on practical projects and labs works to showcase that I can do the job and add value to my prospective company.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Cybersecurity Map](https://github.com/shahrulandeka/cybersecurity-map)
   - Active Directory Home Lab (Coming soon)
 
 <h2>👨‍💻 Lab Work:</h2>
