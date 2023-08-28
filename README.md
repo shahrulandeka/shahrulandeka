@@ -21,9 +21,10 @@ Welcome to my cybersecurity portfolio! Where I comprehensively document everythi
 
 <h2>Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://github.com/shahrulandeka/LABURL) [IN PROGRESS]
+  - [Google Cybersecurity Professional Certificate](https://i.imgur.com/GnZ434d.jpg)
   - [Qualys Vulnerability Management Foundation Course](https://i.imgur.com/zIFHz0N.jpg)
   - [Qualys VMDR](https://i.imgur.com/T4UMfOC.jpg)
+  - [Programming Hub Python 3](https://i.imgur.com/ciws3uO.jpg)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -33,18 +34,3 @@ Welcome to my cybersecurity portfolio! Where I comprehensively document everythi
 
 [instagram]: https://www.instagram.com/an.s42/
 [linkedin]: https://linkedin.com/in/shahrulandeka
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
